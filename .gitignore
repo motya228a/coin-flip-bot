@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+data.db
+data.db-wal
+data.db-shm
+*.log
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.idea/
